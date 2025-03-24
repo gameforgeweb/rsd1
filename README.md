@@ -23,4 +23,4 @@ At **GameProxies & MovieSites**, we provide high-quality, ready-to-use websites 
 
 ## Contact Us
 
-For more information or inquiries, feel free to reach out to us via the GitHub Issues tab or email us at [your-email@example.com](mailto:your-email@example.com).
+For more information or inquiries, feel free to reach out to us via the GitHub Issues tab or email us at [gameforgeweb](gameforgewebsites@gmail.com).
